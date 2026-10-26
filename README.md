@@ -8,6 +8,7 @@ the people around me actually have. Learning in public and **open to opportuniti
 **Know exactly what to bring before you line up.** Ask what you need for SSS, PhilHealth,
 Pag-IBIG, PSA, NBI or LTO papers in English, Tagalog or Bisaya, and get a checklist and next
 steps backed by official agency sources, with citations.
+**[▶ Try it live](https://papeles-tau.vercel.app)**
 
 <a href="https://github.com/kazzi-dev/papeles">
   <img src="https://raw.githubusercontent.com/kazzi-dev/papeles/main/docs/screenshots/answer-lto.png" width="420" alt="Papeles answering how much an LTO student permit costs, with cited official facts">
