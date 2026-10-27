@@ -22,6 +22,23 @@ steps backed by official agency sources, with citations.
 - **Stack:** Next.js · TypeScript · FastAPI · PostgreSQL + pgvector · Docker · GitHub Actions ·
   pytest
 
+## ⭐ Featured: [TrabaHub](https://github.com/kazzi-dev/trabahub)
+
+**Every job you're chasing, in one place.** A job-application tracker: drag openings from
+*Saved* to *Applied*, *Interview* and *Offer*, and get a follow-up reminder a week after you apply.
+Career coaches can invite job seekers and follow their progress.
+**[▶ Try it live](https://trabahub-six.vercel.app)** (one-click demo, no sign-up) ·
+**[API docs](https://trabahub-api.onrender.com/docs)**
+
+- **Typed full stack:** one set of Zod schemas shared by the Express API, the Next.js app and
+  the OpenAPI docs
+- **Teams with roles:** owner, admin, coach and member permissions, enforced on the API and
+  mirrored in the UI
+- **Production habits:** GitHub/Google OAuth, rate limiting, SQL migrations, 34 API tests, a
+  Docker image, Terraform for the hosting, and CI on every push
+- **Stack:** Next.js · React · TypeScript · Node.js + Express · PostgreSQL (Neon) · Drizzle ORM ·
+  Docker · Terraform · GitHub Actions · Vitest
+
 ## 🛠️ Other projects
 
 | Project | What it is | Built with |
@@ -35,10 +52,10 @@ steps backed by official agency sources, with citations.
 ## 🧰 Tech I work with
 
 **Languages:** TypeScript · JavaScript · Python · Dart
-**Web:** Next.js · React · Tailwind CSS · FastAPI
+**Web:** Next.js · React · Tailwind CSS · Node.js · Express · FastAPI · REST APIs · OAuth
 **Mobile:** Flutter
-**Data & AI:** PostgreSQL · pgvector · SQLite · RAG · LLM APIs (Groq, Gemini, Claude) · Whisper
-**Tooling:** Git · Docker · GitHub Actions · pytest · Vercel
+**Data & AI:** PostgreSQL · Drizzle ORM · pgvector · SQLite · RAG · LLM APIs (Groq, Gemini, Claude) · Whisper
+**Tooling:** Git · Docker · Terraform · GitHub Actions · Vitest · pytest · Vercel · Render
 
 ## 📫 Get in touch
 
